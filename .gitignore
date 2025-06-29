@@ -1,1 +1,6 @@
-bin/\nobj/\n.vs/\n*.exe\n*.dll\n*.pdb
+bin/
+obj/
+.vs/
+*.exe
+*.dll
+*.pdb
