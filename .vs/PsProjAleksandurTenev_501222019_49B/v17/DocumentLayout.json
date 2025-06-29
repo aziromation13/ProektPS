@@ -1,0 +1,713 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\components\\alluserslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\components\\alluserslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\psprojaleksandurtenev_501222019_49b\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|solutionrelative:psprojaleksandurtenev_501222019_49b\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\datalayer\\model\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\loggers\\dblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\dblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\viewmodel\\studentslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\viewmodel\\studentslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\viewmodel\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\viewmodel\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\viewmodel\\alluserslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\viewmodel\\alluserslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\components\\addusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\components\\addusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\components\\addusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\components\\addusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\psprojaleksandurtenev_501222019_49b\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|solutionrelative:psprojaleksandurtenev_501222019_49b\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\psprojaleksandurtenev_501222019_49b\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|solutionrelative:psprojaleksandurtenev_501222019_49b\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\psprojaleksandurtenev_501222019_49b\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|solutionrelative:psprojaleksandurtenev_501222019_49b\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\components\\alluserslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\components\\alluserslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\extras\\agetobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\extras\\agetobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\extras\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\extras\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\components\\studentslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\components\\studentslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\components\\studentslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\components\\studentslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\components\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\components\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\components\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\components\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Migrations\\20250629072247_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataLayer\\Migrations\\20250629072247_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\welcomeextended\\welcomeextended.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DE64239-5602-4E81-842B-6979CD6075E3}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\welcomeextended.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\psprojaleksandurtenev_501222019_49b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3C0FA2-EBCF-4CA7-B90A-44DA9C399BA8}|PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj|solutionrelative:psprojaleksandurtenev_501222019_49b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B908CC66-AE8F-4559-98E7-7E5ADD352A46}|ui\\UI.csproj|solutionrelative:ui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|c:\\users\\antony7\\source\\repos\\psprojaleksandurtenev_501222019_49b\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A20EA41F-1D4C-4A35-904D-11F75E59FC0D}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ui\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "ui\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:19:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ui\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ui\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:22:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\StudentsListViewModel.cs",
+              "RelativeDocumentMoniker": "ui\\ViewModel\\StudentsListViewModel.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\StudentsListViewModel.cs",
+              "RelativeToolTip": "ui\\ViewModel\\StudentsListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:36:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Model\\LogEntry.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Model\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Model\\LogEntry.cs",
+              "RelativeToolTip": "DataLayer\\Model\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:46:40.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoggerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:06:23.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Helpers\\UserHelper.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\UserHelper.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Helpers\\UserHelper.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\UserHelper.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:23:35.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Loggers\\DbLogger.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\DbLogger.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Loggers\\DbLogger.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\DbLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:47:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HashLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Loggers\\HashLogger.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\HashLogger.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Loggers\\HashLogger.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\HashLogger.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:55:52.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delegates.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Others\\Delegates.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\Delegates.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Others\\Delegates.cs",
+              "RelativeToolTip": "WelcomeExtended\\Others\\Delegates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:08:29.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActionOnError.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Others\\ActionOnError.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\ActionOnError.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Others\\ActionOnError.cs",
+              "RelativeToolTip": "WelcomeExtended\\Others\\ActionOnError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:11:09.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseUser.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Model\\DatabaseUser.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Model\\DatabaseUser.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Model\\DatabaseUser.cs",
+              "RelativeToolTip": "DataLayer\\Model\\DatabaseUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:34:09.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Database\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "DataLayer\\Database\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:41:37.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\View\\UserView.cs",
+              "RelativeDocumentMoniker": "PsProjAleksandurTenev_501222019_49B\\View\\UserView.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\View\\UserView.cs",
+              "RelativeToolTip": "PsProjAleksandurTenev_501222019_49B\\View\\UserView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:51:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllUsersList.xaml",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\AllUsersList.xaml",
+              "RelativeDocumentMoniker": "ui\\Components\\AllUsersList.xaml",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\AllUsersList.xaml",
+              "RelativeToolTip": "ui\\Components\\AllUsersList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T16:13:11.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\AddUserViewModel.cs",
+              "RelativeDocumentMoniker": "ui\\ViewModel\\AddUserViewModel.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\AddUserViewModel.cs",
+              "RelativeToolTip": "ui\\ViewModel\\AddUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:25:29.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AllUsersListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\AllUsersListViewModel.cs",
+              "RelativeDocumentMoniker": "ui\\ViewModel\\AllUsersListViewModel.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ViewModel\\AllUsersListViewModel.cs",
+              "RelativeToolTip": "ui\\ViewModel\\AllUsersListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:35:43.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ui\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "ui\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T15:35:35.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:19:12.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRolesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\Others\\UserRolesEnum.cs",
+              "RelativeDocumentMoniker": "PsProjAleksandurTenev_501222019_49B\\Others\\UserRolesEnum.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\Others\\UserRolesEnum.cs",
+              "RelativeToolTip": "PsProjAleksandurTenev_501222019_49B\\Others\\UserRolesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:45:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\Model\\User.cs",
+              "RelativeDocumentMoniker": "PsProjAleksandurTenev_501222019_49B\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\Model\\User.cs",
+              "RelativeToolTip": "PsProjAleksandurTenev_501222019_49B\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:46:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\AddUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "ui\\Components\\AddUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\AddUserControl.xaml.cs",
+              "RelativeToolTip": "ui\\Components\\AddUserControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:43:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\AddUserControl.xaml",
+              "RelativeDocumentMoniker": "ui\\Components\\AddUserControl.xaml",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\AddUserControl.xaml",
+              "RelativeToolTip": "ui\\Components\\AddUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T16:43:09.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "PsProjAleksandurTenev_501222019_49B\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "PsProjAleksandurTenev_501222019_49B\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:50:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Program.cs",
+              "RelativeToolTip": "WelcomeExtended\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:53:10.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoggerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:05:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ui\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ui\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:35:34.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentsList.xaml",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\StudentsList.xaml",
+              "RelativeDocumentMoniker": "ui\\Components\\StudentsList.xaml",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\StudentsList.xaml",
+              "RelativeToolTip": "ui\\Components\\StudentsList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T15:42:02.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AllUsersList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\AllUsersList.xaml.cs",
+              "RelativeDocumentMoniker": "ui\\Components\\AllUsersList.xaml.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\AllUsersList.xaml.cs",
+              "RelativeToolTip": "ui\\Components\\AllUsersList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:13:21.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentsList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\StudentsList.xaml.cs",
+              "RelativeDocumentMoniker": "ui\\Components\\StudentsList.xaml.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\StudentsList.xaml.cs",
+              "RelativeToolTip": "ui\\Components\\StudentsList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:42:45.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Extras\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ui\\Extras\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Extras\\RelayCommand.cs",
+              "RelativeToolTip": "ui\\Extras\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:44:12.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AgeToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Extras\\AgeToBrushConverter.cs",
+              "RelativeDocumentMoniker": "ui\\Extras\\AgeToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Extras\\AgeToBrushConverter.cs",
+              "RelativeToolTip": "ui\\Extras\\AgeToBrushConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:38:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\LoginControl.xaml.cs",
+              "RelativeDocumentMoniker": "ui\\Components\\LoginControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\LoginControl.xaml.cs",
+              "RelativeToolTip": "ui\\Components\\LoginControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:11:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\LoginControl.xaml",
+              "RelativeDocumentMoniker": "ui\\Components\\LoginControl.xaml",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\Components\\LoginControl.xaml",
+              "RelativeToolTip": "ui\\Components\\LoginControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T16:11:24.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Program.cs",
+              "RelativeToolTip": "DataLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:33:11.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\UI.csproj",
+              "RelativeDocumentMoniker": "ui\\UI.csproj",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\UI.csproj",
+              "RelativeToolTip": "ui\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T16:00:05.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250629072247_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Migrations\\20250629072247_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20250629072247_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\Migrations\\20250629072247_InitialCreate.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20250629072247_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:22:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\App.xaml",
+              "RelativeDocumentMoniker": "ui\\App.xaml",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\App.xaml",
+              "RelativeToolTip": "ui\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T15:37:44.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WelcomeExtended.csproj",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\WelcomeExtended.csproj",
+              "RelativeDocumentMoniker": "WelcomeExtended\\WelcomeExtended.csproj",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\WelcomeExtended.csproj",
+              "RelativeToolTip": "WelcomeExtended\\WelcomeExtended.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T13:53:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\Program.cs",
+              "RelativeDocumentMoniker": "PsProjAleksandurTenev_501222019_49B\\Program.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\Program.cs",
+              "RelativeToolTip": "PsProjAleksandurTenev_501222019_49B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:44:39.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ui\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\AssemblyInfo.cs",
+              "RelativeToolTip": "ui\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:38:52.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T14:33:14.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

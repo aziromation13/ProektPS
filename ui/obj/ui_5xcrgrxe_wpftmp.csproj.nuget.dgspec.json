@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ui.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj",
+        "projectName": "DataLayer",
+        "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Antony7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Antony7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj": {
+                "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj",
+        "projectName": "PsProjAleksandurTenev_501222019_49B",
+        "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj",
+        "packagesPath": "C:\\Users\\Antony7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Antony7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ui.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ui.csproj",
+        "projectName": "ui",
+        "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\ui.csproj",
+        "packagesPath": "C:\\Users\\Antony7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\ui\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Antony7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj"
+              },
+              "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\WelcomeExtended.csproj": {
+                "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\WelcomeExtended.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\WelcomeExtended.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\WelcomeExtended.csproj",
+        "projectName": "WelcomeExtended",
+        "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\WelcomeExtended.csproj",
+        "packagesPath": "C:\\Users\\Antony7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\WelcomeExtended\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Antony7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\DataLayer\\DataLayer.csproj"
+              },
+              "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj": {
+                "projectPath": "C:\\Users\\Antony7\\source\\repos\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B\\PsProjAleksandurTenev_501222019_49B.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="UI.Components.AllUsersList"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:viewModel="clr-namespace:UI.ViewModel"
+             xmlns:local="clr-namespace:UI.Extras"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <local:AgeToBrushConverter x:Key="AgeToBrushConverter"/>
+        <Style x:Key="AgeBasedRowStyle" TargetType="DataGridRow">
+            <Setter Property="Background" Value="{Binding Age, Converter={StaticResource AgeToBrushConverter}}" />
+        </Style>
+    </UserControl.Resources>
+
+    
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        
+        <DataGrid Grid.Row="0"
+                  AutoGenerateColumns="False"
+                  ItemsSource="{Binding Users}"
+                  IsReadOnly="True"
+                  RowStyle="{StaticResource AgeBasedRowStyle}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" />
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Password" Binding="{Binding Password}" />
+                <DataGridTextColumn Header="Role" Binding="{Binding Roles}" />
+                <DataGridTextColumn Header="Age" Binding="{Binding Age}" />
+                <DataGridTextColumn Header="Expires" Binding="{Binding Expires}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+       
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Delete All Users"
+                    Padding="10,5"
+                    Background="Red"
+                    Foreground="White"
+                    Command="{Binding DeleteAllUsersCommand}" />
+        </StackPanel>
+    </Grid>
+</UserControl>
